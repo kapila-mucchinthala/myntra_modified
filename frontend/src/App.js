@@ -1,12 +1,12 @@
-import './App.css';
-import { BigDeals } from './components/LandingPage/ProductsDeals/BiggestDeals';
-import { DayDeals } from './components/LandingPage/ProductsDeals/DealsOfDay';
+import { LandingPage } from "./components/LandingPage/LandingPage";
+
+
 
 function App() {
   return (
-    <div className="App">
-            <DayDeals/>
-            <BigDeals/>
+    <div>
+          <LandingPage/>
+            
     </div>
   );
 }

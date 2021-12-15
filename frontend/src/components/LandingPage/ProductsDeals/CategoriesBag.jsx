@@ -1,0 +1,95 @@
+import Styles from "./ProductDeals.module.css";
+
+export const CategoriesBag = () => {
+  return (
+    <div className={Styles.DealDiv}>
+      <h4 className={Styles.text_banner_title}>CATEGORIES TO BAG</h4>
+      <div className={Styles.CategoriesProduct}>
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/89f1bd9d-3a28-456d-888a-beff717a06f81594222908155-Shirts.jpg"
+          alt=""
+          className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/b0f459a0-9ef0-4392-a9ed-23892a36e79c1594222966859-Dresses.jpg"
+          alt=""
+        className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/a4dedaa4-3710-4061-b7d6-ca8c83ce9d021594222967117-Heels.jpg"
+          alt=""
+        className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/ae14f627-9fd9-41ce-80a4-f107c316c7eb1594222907625-Casual-shoes.jpg"
+          alt=""
+        className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+        <img
+          src="https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg"
+          alt=""
+     className={Styles.CategoriesBag}
+          width="200"
+          height="241"
+        />
+      </div>
+    </div>
+  );
+};

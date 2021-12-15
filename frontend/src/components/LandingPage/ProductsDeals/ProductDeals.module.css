@@ -13,9 +13,19 @@
     font-size: 1.8em;
     margin: 50px 0px 50px 40px;
     max-height: 5em;
-    font-weight: 700;
+    font-weight: 500;
+    
 
 }
 .DealsDayProductImage{
-    margin-right: 25px;
-}
+    padding-right: 20px;
+ }
+ .CategoriesProduct{
+     max-width: 100%;
+     text-align: center;
+ }
+ .CategoriesBag{
+     padding-right: 15px;
+ }
+
+ 
