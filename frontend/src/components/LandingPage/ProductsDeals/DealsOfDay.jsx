@@ -1,10 +1,10 @@
 import Styles from "./ProductDeals.module.css"
 
-export const  DayDeals=()=>{
-    return(
-        <div className={Styles.text_banner_title}>
-            <h4>Deals Of The Day</h4>
-            <div className="products">
+export const DayDeals = () => {
+  return (
+    <div className={Styles.text_banner_title}>
+      <h4>Deals Of The Day</h4>
+      <div className="products">
         <img
           src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2021/12/13/8a05c974-6db5-4450-bff4-ec0fdc9864331639409850113-Sweatshirts---Jackets.jpg"
           alt=""
@@ -41,6 +41,6 @@ export const  DayDeals=()=>{
           height="480"
         />
       </div>
-        </div>
-    )
+    </div>
+  )
 }
