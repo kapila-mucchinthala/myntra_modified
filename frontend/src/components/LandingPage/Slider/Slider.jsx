@@ -1,5 +1,6 @@
 import AliceCarousel from 'react-alice-carousel';
 import "react-alice-carousel/lib/alice-carousel.css";
+import {styles} from './slider.module.css';
 
 export const Slider = () => {
     return (
