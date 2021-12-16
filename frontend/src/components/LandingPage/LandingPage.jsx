@@ -2,6 +2,7 @@ import { BigDeals } from './ProductsDeals/BiggestDeals';
 import { DayDeals } from './ProductsDeals/DealsOfDay';
 import { CategoriesBag } from './ProductsDeals/CategoriesBag';
 import { ExploreDeals } from './ProductsDeals/ExploreBrands';
+import { MyntraLuxe } from './ProductsDeals/MyntraLuxe';
 
 
 export const LandingPage=()=>{
@@ -11,6 +12,7 @@ export const LandingPage=()=>{
               <BigDeals/>
               <CategoriesBag/>
               <ExploreDeals/>
+              <MyntraLuxe/>
         </div>
     )
 }

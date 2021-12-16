@@ -23,7 +23,7 @@ export const DayDeals = () => {
           src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2021/12/13/50401daa-77b4-4582-8471-a3bd722dcc821639409850097-Winter-Wear_Kids.jpg"
           alt=""
           className={Styles.DealsDayProductImage}
-          width="244"
+          width="221"
           height="333"
         />
         <img

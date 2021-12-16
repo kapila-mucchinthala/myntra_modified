@@ -3,7 +3,7 @@ import Styles from "./ProductDeals.module.css";
 export const ExploreDeals = () => {
   return (
     <div className={Styles.DealDiv}>
-      <h4 className={Styles.text_banner_title}>BIGGEST DEALS ON TOP BRANDS</h4>
+      <h4 className={Styles.text_banner_title}>EXPLORE TOP BRANDS</h4>
       <div className={Styles.DealsProduct}>
         <img
           src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/a88b9390-5adb-493b-a1b3-702c59ccf53a1598348260502-Nike.jpg"
