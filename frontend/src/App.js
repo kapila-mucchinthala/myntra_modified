@@ -1,9 +1,11 @@
 import { HomeNavbar } from './components/HomeNavbar';
-// import {Route} from 'react-router-dom';
+// import { Payment } from './components/Payment';
+
 function App() {
   return (
     <div>
       <HomeNavbar />
+      {/* <Payment/> */}
       
     </div>
   );

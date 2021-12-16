@@ -150,6 +150,7 @@
     font-weight: 600;
     font-size: 16px;
     line-height: 25px;
+    /* cursor: pointer; */
 }
 .navbarMenProdHeadingList{
     font-style: normal;
@@ -169,4 +170,8 @@
 .navbarprodHrLine{
     margin:15px 20px 15px 20px;
     color: #fbfeff;
+}
+.navbarMenProdHeadingListHover div:hover{
+    font-weight: bold;
+    color: #282c3f;
 }
