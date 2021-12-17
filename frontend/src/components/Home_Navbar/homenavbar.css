@@ -163,11 +163,31 @@
     sans-serif;
     color: #696E79;
 }
+.navbarMenProdHeadingList a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    font-family: Whitney,
+    -apple-system,
+    BlinkMacSystemFont,
+    Segoe UI,
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+    color: #696E79;
+    text-decoration: none;
+}
 .navbarprodHrLine{
     margin:15px 20px 15px 20px;
     color: #fbfeff;
 }
 .navbarMenProdHeadingListHover div:hover{
+    font-weight: bold;
+    color: #282c3f;
+}
+.navbarMenProdHeadingList a:hover{
     font-weight: bold;
     color: #282c3f;
 }
