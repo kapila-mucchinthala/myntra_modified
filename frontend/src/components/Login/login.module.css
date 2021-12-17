@@ -1,13 +1,13 @@
 .loginPage{
-    width: 1440px;
-    height: 1024px;
+    width: 100vw;
+    height: 100vh;
     background: linear-gradient(116.5deg, #F8EAEC 8.51%, #F5E7E2 94.97%);
-    padding-top: 100px;
+    padding-top: 50px;
 }
 .login_card{
     
     width: 410px;
-    height: 620px;
+    height: 550px;
     background: #FFFFFF;
     margin:  auto;
     
@@ -104,4 +104,9 @@
     margin: 0 16px 0 0;
     border-radius: 2px;
     caret-color: #ff2459;
+}
+.Verifiction_form{
+     margin: 0px auto;
+     width: 280px;
+
 }
