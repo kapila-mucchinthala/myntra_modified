@@ -8,7 +8,7 @@ export const Login = () => {
           <div className={Styles.login_card_image}>
             <img
               src="https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2021/7/9/da75002d-5bbd-4e5d-91cb-6cb4f481900c1625769349241-Banner_Hamburger_400.png"
-              alt=""
+              alt="loginImag"
               width="410"
               height="182px"
             />
@@ -45,8 +45,8 @@ export const Login = () => {
             </div>
             <div className={Styles.formTerms}>
               By continuing, I agree to the{" "}
-              <a href="https://www.myntra.com/termsofuse">Terms of Use</a> &{" "}
-              <a href="https://www.myntra.com/termsofuse">Privacy Policy</a>
+              <a href="#">Terms of Use</a> &{" "}
+              <a href="#">Privacy Policy</a>
             </div>
             <div className={Styles.CotinueBtnDiv}>
               <button>continue</button>

@@ -8,7 +8,7 @@ export const VerifyOtp = () => {
           <div className={Styles.login_card_image}>
             <img
               src="https://constant.myntassets.com/pwa/assets/img/3a438cb4-c9bf-4316-b60c-c63e40a1a96d1548071106233-mobile-verification.jpg"
-              alt=""
+              alt="otpImg"
               width="88"
               height="88"
             />

@@ -11,7 +11,7 @@ export const ProductSuggest=()=>{
                 <div class="row row-cols-1 row-cols-md-6 g-3">
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (1).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (1).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -21,7 +21,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (2).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (2).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -31,7 +31,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (3).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (3).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -41,7 +41,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (4).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (4).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -51,7 +51,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (5).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (5).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -61,7 +61,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (6).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (6).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -76,7 +76,7 @@ export const ProductSuggest=()=>{
                 <div class="row row-cols-1 row-cols-md-6 g-3">
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (1).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (1).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -86,7 +86,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (2).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (2).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -96,7 +96,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (3).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (3).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -106,7 +106,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (4).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (4).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -116,7 +116,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (5).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (5).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -126,7 +126,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./product_img (6).png" class="card-img-top" alt="..."/>
+                            <img src="./product_img (6).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -144,7 +144,7 @@ export const ProductSuggest=()=>{
                 <div class="row row-cols-1 row-cols-md-6 g-3">
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (1).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (1).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -154,7 +154,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (2).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (2).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -164,7 +164,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (3).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (3).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -174,7 +174,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (4).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (4).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -184,7 +184,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (5).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (5).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -194,7 +194,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (6).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (6).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -209,7 +209,7 @@ export const ProductSuggest=()=>{
                 <div class="row row-cols-1 row-cols-md-6 g-3">
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (7).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (7).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -219,7 +219,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (8).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (8).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -229,7 +229,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (9).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (9).png" class="card-img-top" alt="productduct"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -239,7 +239,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (10).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (10).png" class="card-img-top" alt="productduc"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -249,7 +249,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (11).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (11).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>
@@ -259,7 +259,7 @@ export const ProductSuggest=()=>{
                     </div>
                     <div class="col">
                         <div class="card h-60">
-                            <img src="./Product_img/like_product (12).png" class="card-img-top" alt="..."/>
+                            <img src="./Product_img/like_product (12).png" class="card-img-top" alt="product"/>
                                 <div class="card-body">
                                     <h5 class="desc_heading">H & M</h5>
                                     <p class="card-text">Men Relaxed Fit Hoodie</p>

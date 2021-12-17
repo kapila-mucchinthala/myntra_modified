@@ -20,16 +20,16 @@ export const ProductView = () => {
                 <div className="col-md-6">
                     <div className="row" style={{ marginLeft: "50px" }}>
                         <div className="col-md-6">
-                            <img src="./img_sweater1_a.png" className="img-fluid mt-4" />
+                            <img src="./img_sweater1_a.png" className="img-fluid mt-4" alt="product-img"/>
                         </div>
                         <div className="col-md-6">
-                            <img src="./img_sweater1_b.png" className="img-fluid mt-4" />
+                            <img src="./img_sweater1_b.png" className="img-fluid mt-4" alt="product-img" />
                         </div>
                         <div className="col-md-6">
-                            <img src="./img_sweater1_c.png" className="img-fluid mt-4" />
+                            <img src="./img_sweater1_c.png" className="img-fluid mt-4" alt="product-img"/>
                         </div>
                         <div className="col-md-6">
-                            <img src="./img_sweater1_d.png" className="img-fluid mt-4" />
+                            <img src="./img_sweater1_d.png" className="img-fluid mt-4" alt="product-img"/>
                         </div>
                     </div>
                 </div>
@@ -159,9 +159,9 @@ export const ProductView = () => {
                                 <div className="col-md-1"></div>
                                 <div className="col-md-11">
                                     <p className="desc_p">Awesome quality, good looking, warm and perfect fitting, need to take next size of your actual. The only disappointment thing is under hoodie colour not as displayed.</p>
-                                    <img src="./review_img (1).png" className="review_img" />
-                                    <img src="./review_img (2).png" className="review_img" />
-                                    <img src="./review_img (3).png" className="review_img" />
+                                    <img src="./review_img (1).png" className="review_img" alt="product-img" />
+                                    <img src="./review_img (2).png" className="review_img"alt="product-img" />
+                                    <img src="./review_img (3).png" className="review_img"alt="product-img" />
                                     <p className="review_date">Phaneendra  |  18 Nov 2020</p>
                                     <p className=""></p>
                                 </div>
@@ -171,9 +171,9 @@ export const ProductView = () => {
                                 <div className="col-md-1"></div>
                                 <div className="col-md-11">
                                     <p className="desc_p">Awesome quality, good looking, warm and perfect fitting, need to take next size of your actual. The only disappointment thing is under hoodie colour not as displayed.</p>
-                                    <img src="./review_img (1).png" className="review_img" />
-                                    <img src="./review_img (2).png" className="review_img" />
-                                    <img src="./review_img (3).png" className="review_img" />
+                                    <img src="./review_img (1).png" className="review_img" alt="product-img"/>
+                                    <img src="./review_img (2).png" className="review_img"alt="product-img" />
+                                    <img src="./review_img (3).png" className="review_img" alt="product-img"/>
                                     <p className="review_date">Phaneendra  |  18 Nov 2020</p>
                                     <p className=""></p>
                                 </div>
@@ -183,9 +183,9 @@ export const ProductView = () => {
                                 <div className="col-md-1"></div>
                                 <div className="col-md-11">
                                     <p className="desc_p">Awesome quality, good looking, warm and perfect fitting, need to take next size of your actual. The only disappointment thing is under hoodie colour not as displayed.</p>
-                                    <img src="./review_img (1).png" className="review_img" />
-                                    <img src="./review_img (2).png" className="review_img" />
-                                    <img src="./review_img (3).png" className="review_img" />
+                                    <img src="./review_img (1).png" className="review_img" alt="product-img"/>
+                                    <img src="./review_img (2).png" className="review_img"alt="product-img" />
+                                    <img src="./review_img (3).png" className="review_img" alt="product-img"/>
                                     <p className="review_date">Phaneendra  |  18 Nov 2020</p>
                                     <p className=""></p>
                                 </div>

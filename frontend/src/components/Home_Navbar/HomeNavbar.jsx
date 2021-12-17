@@ -4,7 +4,7 @@ export const HomeNavbar = ()=>{
     return (
         <div className="homeNavbar">
             <div className="navbarDivOne">
-                <img className="navbarDivOneLogo" src='https://www.linkpicture.com/q/logo-1_3.png' type="image" alt=''></img>
+                <img className="navbarDivOneLogo" src='https://www.linkpicture.com/q/logo-1_3.png' type="image" alt='navbar'></img>
             </div>
             <div className="navbarDivTwo">       
                 <div className='navbarMen'>MEN
@@ -176,20 +176,20 @@ export const HomeNavbar = ()=>{
             </div>
             
             <div className='navbarDivThreeSubdivOne'>
-                <img className="navbarDivThreeImg" src='https://www.linkpicture.com/q/search_8.png' alt="" />
+                <img className="navbarDivThreeImg" src='https://www.linkpicture.com/q/search_8.png' alt="nav" />
                 <input className="navbarDivThreeInput" type='text' placeholder='Search for products, brands and more'/>
             </div>
             <div className="navbarDivThree">
                 <div className='navbarDivThreeFlex'>
-                    <img src='https://www.linkpicture.com/q/profile_11.png' alt=''></img>
+                    <img src='https://www.linkpicture.com/q/profile_11.png' alt='navbar'></img>
                     <div>Profile</div>
                 </div>
                 <div className='navbarDivThreeFlex'>
-                    <img src='https://www.linkpicture.com/q/whishlist.png' alt=''></img>
+                    <img src='https://www.linkpicture.com/q/whishlist.png' alt='navbar'></img>
                     <div>Whislist</div>
                 </div>
                 <div className='navbarDivThreeFlex'>
-                    <img src='https://www.linkpicture.com/q/bag.png' alt=''></img>
+                    <img src='https://www.linkpicture.com/q/bag.png' alt='navbar'></img>
                     <div>Bag</div>
                 </div>
             </div>

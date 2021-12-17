@@ -42,10 +42,10 @@ export const Footer = () => {
                     <br />
                     <br />
                     <h2 className="mt-3">KEEP IN TOUCH</h2>
-                    <img src="/img_facebook.png" height="24px" width="24px" className="m-1" />
-                    <img src="/img_tweet.png" height="24px" width="24px" className="m-1" />
-                    <img src="/img_youtube.png" height="24px" width="24px" className="m-1" />
-                    <img src="/img_insta.png" height="24px" width="24px" className="m-1" />
+                    <img src="/img_facebook.png" height="24px" width="24px" className="m-1" alt="footer"/>
+                    <img src="/img_tweet.png" height="24px" width="24px" className="m-1" alt="footer" />
+                    <img src="/img_youtube.png" height="24px" width="24px" className="m-1"alt="footer" />
+                    <img src="/img_insta.png" height="24px" width="24px" className="m-1"alt="footer" />
                 </div>
                 <div className="col-md-3">
                     <div className="row mb-5">
