@@ -1,0 +1,107 @@
+.loginPage{
+    width: 1440px;
+    height: 1024px;
+    background: linear-gradient(116.5deg, #F8EAEC 8.51%, #F5E7E2 94.97%);
+    padding-top: 100px;
+}
+.login_card{
+    
+    width: 410px;
+    height: 620px;
+    background: #FFFFFF;
+    margin:  auto;
+    
+}
+.login_card_image{
+    margin-bottom: 10px;
+}
+.login_form{
+    margin: auto;
+    width: 318px;
+    height: 353px;
+    left: 46px;
+    top: 182px;
+    background: #FFFFFF;
+}
+.Loginform_title > p {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    color: #696E79;
+    margin-bottom:30px;
+    font-family: 'Segoe UI', sans-serif;
+}
+.Loginform_title > p >span{
+    font-family: 'Segoe UI', sans-serif;
+    font-style: normal;
+    font-size:16px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #696E79;
+}
+
+.formInput{
+    margin-bottom: 30px ;
+}
+
+.formTerms{
+    width: 305px;
+    height: 42px;
+    top: 8px;
+    color: rgba(40,44,63,.8);
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 17px;
+    margin-bottom: 30px;
+}
+.formTerms>a{
+    font-family: Segoe UI;
+    cursor: pointer;
+    color: #ff3c6f;
+    font-weight: 600;
+    
+}
+.CotinueBtnDiv{
+   margin-top: 30px;
+}
+.CotinueBtnDiv>button{
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    font-family: 'Segoe UI', sans-serif;
+    background: #FF3F6C ;
+    color: #FFFFFF;
+    border: none;
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px 115px;
+}
+.Gethelp{
+    font-family: 'Segoe UI', sans-serif;
+    margin: 30px 0;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #424553;
+}
+.Gethelp>span{
+    cursor: pointer;
+    color: #ff3f6c;
+    font-weight: 500;
+}
+.OtpContainer{
+    margin-top:40px;
+
+}
+.OtpContainer>input{
+    width: 30px;
+    padding: 9px 0px;
+    border: 1px solid #d4d5d9;
+    font-size: 14px;
+    text-align: center;
+    margin: 0 16px 0 0;
+    border-radius: 2px;
+    caret-color: #ff2459;
+}
