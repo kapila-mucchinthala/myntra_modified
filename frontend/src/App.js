@@ -1,12 +1,12 @@
-import './App.css';
-import { LandingPage } from './components/Body/LandingPage';
-import { ProductView } from './components/ProductViewPage/ProductView';
+import {Login} from "./components/Login/login"
+import { VerifyOtp } from "./components/Login/VerifyOtp";
 
 function App() {
   return (
     <>
-    {/* <LandingPage/> */}
-    <ProductView/>
+    <LandingPage/>
+  
+  
     </>
   );
 }
