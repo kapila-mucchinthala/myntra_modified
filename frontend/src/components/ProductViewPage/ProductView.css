@@ -1,0 +1,132 @@
+
+.product_p{
+    color:#535665;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0px;
+}
+.brand_p{
+    color: black;
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0px;
+}
+.rate{
+    color:#282c3f;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.del_rate{
+    color:#282c3f;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.offer{
+    color:#ff905a;
+    font-size: 20px;
+    font-weight: 500;
+}
+.tax_p{
+    color:#03A685;
+    font-family: Segoe UI;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.size button{
+    border-radius:48%;
+    margin:7px;
+    border:1px solid #BFC0C6;
+    box-sizing: border-box;
+}
+.cart_btn{
+    background-color: #FF3F6C;
+    color: #FFFFFF;
+    line-height: 21px;
+    width: 200px;
+    font-size: 16px;
+}
+.wish_btn{
+    border: 1px solid #BFC0C6;
+    box-sizing: border-box;
+    border-radius: 4px;
+    line-height: 21px;
+    width: 150px;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.delivery_p{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.28px;
+    margin-top: 30px;
+}
+.input_pin{
+    font-family: Segoe UI;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+}
+.desc_heading{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    margin-bottom: 5px;
+}
+.desc_p{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.specifi_h{
+    font-family: Segoe UI;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    margin-bottom: 3px;
+}
+.specifi_p{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    margin-bottom:0px;
+}
+.rating_text{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 0em;
+}
+.review_img{
+    width: 72px;
+    height: 72px;
+    margin:1px 5px 3px 5px;
+}
+.review_date{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #282C3F;
+    margin-top: 10px;
+}
+.product_desc{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color:#535766;
+}
+.nav_root{
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+}
