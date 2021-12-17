@@ -1,0 +1,42 @@
+
+.footer {
+    padding: 50px;
+    color:#282C3F;
+    background-color: #FAFBFC;
+    font-family: Segoe UI;
+} 
+footer h2 {
+    font-weight: 600;
+    font-size: 12px;
+}
+.foot_h1{
+    font-weight: 600;
+    font-size: 14px;
+    color: black;
+}
+
+.box a{
+    text-decoration:none;
+    font-size: 14px;
+}
+.box li{
+    list-style: none;
+    margin-left: -30px;
+}
+.box a {
+color: #999;
+}
+.popular_search{
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+}
+.contact{
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 5px;
+}
+    
+    
+    
