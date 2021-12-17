@@ -1,0 +1,146 @@
+.para {
+    font-size: 14px;
+}
+
+.para1 {
+    color: darkgray;
+}
+
+.boldspan{
+    font-weight: 600;
+}
+
+.boldspan1{
+    color: black;
+    font-weight: 700;
+}
+
+.container {
+    display: flex;
+}
+
+.filterdiv{
+    width: 20%;
+    overflow-wrap: break-word;
+}
+
+.proddiv{
+    width: 80%;
+}
+
+.div1 {
+    height: 50px;
+}
+
+.div2 {
+    border: 1px solid darkgray;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    overflow: auto;
+    gap: 3%;
+    height: 883px;
+    padding: 3% 0 0.5% 3%;
+}
+
+.div2 > div {
+    width: 210px;
+    height: 360px;
+    border: 1px solid black;
+}
+
+.seldiv1 {
+    display: flex;
+    gap: .5%;
+}
+
+.seldiv1 button {
+    border-radius: 16px;
+    font-size: 14px;
+    border: none;
+    background-color: white;
+}
+
+.selectordiv {
+    margin-left: 1%;
+    margin-top: .5%;
+}
+.seldiv1 div :hover {
+    background-color: #ebebebfd;
+}
+
+.detail {
+    padding: 1% 4%;
+}
+
+.detail h3 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    color: #282c3f;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.detail h4 {
+    color: #535766;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 0.5%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 400;
+    display: block;
+}
+
+.detail p {
+    font-size: 14px;
+    color: #282c3f;
+    font-weight: 500;
+    margin-top: 3%;
+}
+
+.lbl {
+    margin: 0 .4rem;
+    font-size: 14px;
+}
+
+.branddiv{
+    padding: 3% 7%;
+    border: 1px solid rgb(206, 205, 205);
+}
+
+.msg {
+    color: red;
+}
+
+.blkc {
+    width: 10px;
+    height: 5px;
+    float: left;
+    background-color: black;
+}
+
+.whishlist {
+   width: 100%;
+   padding-top: 4%;
+   position: absolute;
+   top: 240px;
+   left: 0px; 
+   background: white;
+   align-content: center;
+   margin: 0 auto;
+   padding-left: 10%;
+   height: 40px;
+}
+
+.whishlist button {
+    width: 90%;
+    border: 1px solid black;
+    background: white;
+    color: black;
+    margin: 0 auto;
+}
