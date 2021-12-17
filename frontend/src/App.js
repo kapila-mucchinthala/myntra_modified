@@ -1,11 +1,11 @@
-import { HomeNavbar } from './components/HomeNavbar';
-// import { Payment } from './components/Payment';
+// import { HomeNavbar } from './components/HomeNavbar';
+import { Payment } from './components/Payment';
 
 function App() {
   return (
     <div>
-      <HomeNavbar />
-      {/* <Payment/> */}
+      {/* <HomeNavbar /> */}
+      <Payment/>
       
     </div>
   );
