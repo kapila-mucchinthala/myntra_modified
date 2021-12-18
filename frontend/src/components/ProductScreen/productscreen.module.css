@@ -18,11 +18,11 @@
 .container {
     display: flex;
 }
-
+/* 
 .filterdiv{
     width: 20%;
     overflow-wrap: break-word;
-}
+} */
 
 .proddiv{
     width: 80%;
@@ -34,19 +34,19 @@
 
 .div2 {
     border: 1px solid darkgray;
-    display: grid;
+    /* display: grid;
     grid-template-columns: auto auto auto auto;
     overflow: auto;
     gap: 3%;
     height: 883px;
-    padding: 3% 0 0.5% 3%;
+    padding: 3% 0 0.5% 3%; */
 }
 
-.div2 > div {
+/* .div2 > div {
     width: 210px;
     height: 360px;
     border: 1px solid black;
-}
+} */
 
 .seldiv1 {
     display: flex;
@@ -143,4 +143,34 @@
     background: white;
     color: black;
     margin: 0 auto;
+}
+.offer_pirce{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535766;
+}
+.price{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535766;
+    text-decoration: line-through;
+}
+.offer{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FF905A;
+}
+.link_a{
+    text-decoration: none;
+    color: #535766;
+}
+.link_a :hover{
+    color:  #ff3f6c;
 }

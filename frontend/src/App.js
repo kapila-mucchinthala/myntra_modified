@@ -45,8 +45,6 @@ function App() {
           <ThankYou/>
         </Route>
       </Switch>
-      
-
     </>
   );
 }
