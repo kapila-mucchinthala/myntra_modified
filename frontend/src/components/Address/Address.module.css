@@ -1,88 +1,128 @@
 .SaleEnds {
-  text-align: center;
-  /* margin-top: 10px; */
-  padding-top: 20px;
-  padding-bottom: 10px;
-  border-top: 1px solid #bfc0c6;
-  border-bottom: 1px solid #bfc0c6;
-}
-
-.SaleEnds > p {
-  font-family: Segoe UI;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 21px;
-  color: #7e818c;
-}
-.SaleEnds > p > span {
-  color: #ee5f73;
-  font-weight: 600;
-}
-
-.AddressContainer {
-  display: flex;
-  width: 60%;
-  margin: 10px auto;
-  /* border: 1px solid black; */
-}
-
-.ContactdetailsForm {
-  width: 55%;
-  border: 1px solid #7e818c ;;
-  padding: 25px;
-}
-.ContactdetailsForm > form > input {
-  width: 97%;
-  padding: 10px;
-
-}
-.ContactdetailsForm>div>label, .ContactdetailsForm>form>label{
-    text-transform: uppercase;
+    text-align: center;
+    /* margin-top: 10px; */
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-top: 1px solid #bfc0c6;
+    border-bottom: 1px solid #bfc0c6;
+  }
+  
+  .SaleEnds > p {
     font-family: Segoe UI;
     font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 17px;
-    color: #282C3F;
-
-}
-
-.Addressbtn {
-  background-color: #ff3f6c;
-  border: none;
-  color: #ffffff;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #7e818c;
+  }
+  .SaleEnds > p > span {
+    color: #ee5f73;
+    font-weight: 600;
+  }
+  
+  .AddressContainer {
+    display: flex;
+    width: 60%;
+    margin: 10px auto;
+    /* border: 1px solid black; */
+  }
+  
+  .ContactdetailsForm {
+    width: 55%;
+    border: 1px solid #7e818c ;;
+    padding: 25px;
+  }
+  .ContactdetailsForm > form > input {
+    width: 97%;
+    padding: 10px;
+  
+  }
+  .ContactdetailsForm>div>label, .ContactdetailsForm>form>label{
+      text-transform: uppercase;
+      font-family: Segoe UI;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 12px;
+      line-height: 17px;
+      color: #282C3F;
+  
+  }
+  
+  .Addressbtn {
+    background-color: #ff3f6c;
+    border: none;
+    color: #ffffff;
+    font-family: Segoe UI;
+    font-style: normal;
+    /* font-weight: bold; */
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+     padding: 10px 150px;
+    border-radius: 5px;
+  }
+  .CityState>input{
+       margin-right: 10px;
+       width: 47%;
+       padding: 10px;
+       cursor: pointer;
+       border: none;
+       background-color:#EAEAEC;
+  }
+  
+  .HomeWorkbtn>button{
+      margin-top: 10px;
+      background: none;
+      border: none;
+      border-radius: 15px;
+      margin-right: 10px;
+      border: 1px solid #7e818c ;
+      color: #7e818c;
+      padding: 3px 8px;
+      margin-bottom: 10px;
+  }
+  .HomeWorkbtn>button:hover{
+   padding: 0px 9px;
+   color:  #ff3f6c;
+  }
+  .Checkbox>label{
+      margin-left: 10px;
+  }
+  .PriceDetails{
+      padding: 10px;
+      width: 42%;
+      /* border: 1px solid black; */
+  }
+  .PriceDetailsSec{
+      display: flex;
+      flex-direction: column;
+  }
+  .PriceDetailsDiv{
+      display: flex;
+      justify-content: space-between;
+  }
+  .PriceDetailsDiv>div>p{
+      font-family: Segoe UI;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 19px;
+      color: #282C3F;
+  }
+  .PriceDetailstitle{
+   font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #535766;
+  }
+  .PriceDetailsDiv>.TotalAmount>p{
+  margin-top: 5px;
   font-family: Segoe UI;
   font-style: normal;
-  /* font-weight: bold; */
-  font-size: 14px;
-  line-height: 20px;
-  text-align: center;
-   padding: 10px 150px;
-  border-radius: 5px;
-}
-.CityState>input{
-     margin-right: 10px;
-     width: 47%;
-     padding: 10px;
-     cursor: pointer;
-}
-
-.HomeWorkbtn>button{
-    margin-top: 10px;
-    background: none;
-    border: none;
-    border-radius: 15px;
-    margin-right: 10px;
-    border: 1px solid #7e818c ;
-    color: #7e818c;
-    padding: 3px 8px;
-    margin-bottom: 10px;
-}
-.HomeWorkbtn>button:hover{
- padding: 0px 9px;
- color:  #ff3f6c;
-}
-.Checkbox>label{
-    margin-left: 10px;
-}
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 16px;
+  color: #3E4152
+  }
