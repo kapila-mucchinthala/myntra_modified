@@ -1,0 +1,26 @@
+.SaleEnds{
+    text-align: center;
+    /* margin-top: 10px; */
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-top:1px solid #BFC0C6;
+    border-bottom: 1px solid #BFC0C6;
+}
+
+
+.SaleEnds>p{
+font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+color: #7E818C;
+
+}
+.SaleEnds>p>span{
+    color:#EE5F73;
+    font-weight: 600;
+}
+.ContactdetailsForm{
+    margin: 10px;
+}

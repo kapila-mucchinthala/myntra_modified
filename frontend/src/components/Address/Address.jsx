@@ -1,9 +1,9 @@
 import '../Payment/payment.css'
-// import {Styles} from './Address.module'
+import Styles from './Address.module.css'
 export const Address = ()=>{
     return(
         <div>
-            <div className="homeNavbar">
+            <div  className="homeNavbar">
                <div className="navbarDivOne">
                  <img className="navbarDivOneLogo" src='https://www.linkpicture.com/q/logo-1_3.png' type="image" alt=''></img>
                 </div>
@@ -22,10 +22,15 @@ export const Address = ()=>{
                 </div>
             </div> 
             
-            <div>
-                {/* <div className={Styles.ContactdetailsForm}> */}
+           <div className={Styles.SaleEnds}>
+               <p>Sale Ends <span>00</span> Hrs: <span>33 </span>Min : <span>54</span>Sec</p>
+           </div>
 
-                {/* </div> */}
+
+            <div>
+                <div className={Styles.ContactdetailsForm} >
+                        <h1>hi</h1>
+                </div>
 
             </div>
 
