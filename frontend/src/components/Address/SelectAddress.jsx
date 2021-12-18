@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './Selectaddress.css';
  
 export const Selectaddress = () => {
@@ -84,7 +85,7 @@ export const Selectaddress = () => {
                                 <div id='totalPricecolor'>Total Amount</div>
                                 <div id='totalPricecolor'>Rs. 780</div>
                             </div>
-                            <button className='continueBtn'>CONTINUE</button>
+                            <Link to="/payment"><button className='continueBtn'>CONTINUE</button></Link>
                         </div>
                     </div>
                 </div>

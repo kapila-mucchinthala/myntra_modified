@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Styles from "./login.module.css";
 
 export const Login = () => {
@@ -49,7 +50,7 @@ export const Login = () => {
               <a href="#">Privacy Policy</a>
             </div>
             <div className={Styles.CotinueBtnDiv}>
-              <button>continue</button>
+              <Link to="/otp"><button>continue</button></Link>
             </div>
             <div className={Styles.Gethelp}>
               Have trouble logging in ?<span> Get help</span>

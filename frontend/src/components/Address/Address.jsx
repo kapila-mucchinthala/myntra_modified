@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import '../Payment/payment.css'
 import Styles from './Address.module.css'
 import './Selectaddress.css';
@@ -59,10 +60,7 @@ export const Address = ()=>{
                             <input type="checkbox"/>
                             <label htmlFor=""> Make this my default address</label>
                             </div><br />
-                            
-                           
-
-                            <button className={Styles.Addressbtn} type='submit'>Add Address</button>
+                            <Link to="selectaddress"><button className={Styles.Addressbtn} type='submit'>Add Address</button></Link>
                         </form>
                 </div>
                 <div className={Styles.PriceDetails}>

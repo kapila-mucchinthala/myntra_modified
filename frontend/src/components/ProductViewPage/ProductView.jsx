@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { Footer } from "../Footer/Footer";
 import { HomeNavbar } from "../Home_Navbar/HomeNavbar";
 import { ProductSuggest } from "./ProductSuggest";
@@ -52,7 +53,7 @@ export const ProductView = () => {
                             </p>
                         </div>
                         <div className="col-md-8">
-                            <button type="button" class="btn cart_btn btn-lg">ADD TO CART</button>
+                            <Link to="/cart"><button type="button" class="btn cart_btn btn-lg">ADD TO CART</button></Link>
                             <button type="button" class="btn wish_btn btn-lg">WISHLIST</button>
                         </div>
                         <div className="col-md-4"></div>

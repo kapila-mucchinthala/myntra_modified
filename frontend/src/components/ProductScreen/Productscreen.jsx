@@ -2,8 +2,11 @@ import { useState } from 'react';
 import styles from './productscreen.module.css';
 import AliceCarousel from 'react-alice-carousel';
 import "react-alice-carousel/lib/alice-carousel.css";
+import  Products from "../../db.js";
+import { Link } from 'react-router-dom';
 
 export const Productscreen = () => {
+    
     const [isShown, setIsShown] = useState(false);
 
     const [click, setClick] = useState(true);
@@ -188,11 +191,13 @@ export const Productscreen = () => {
                                     </div>
                                 </div>
                             }
-                            <div className={styles.detail}>
-                                <h3>Mr Bowerbird</h3>
-                                <h4>Men Floral printed Sweatshirt</h4>
-                                <p>Rs. 2999</p>
-                            </div>
+                           <Link to="/productdetail">
+                                <div className={styles.detail}>
+                                    <h3>Mr Bowerbird</h3>
+                                    <h4>Men Floral printed Sweatshirt</h4>
+                                    <p>Rs. 2999</p>
+                                </div>
+                           </Link>
                         </div>
                         <div>
                             <img src="" alt="" />
@@ -218,7 +223,9 @@ export const Productscreen = () => {
                                 <p>Rs. 2999</p>
                             </div>
                         </div>
-                        <div></div>
+                        <div>
+                           
+                        </div>
                         <div></div>
                         <div></div>
                         <div></div>

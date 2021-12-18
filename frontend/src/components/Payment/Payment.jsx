@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './payment.css';
  
 export const Payment = () => {
@@ -79,7 +80,7 @@ export const Payment = () => {
                             <input className='table2input' type='text' placeholder='Enter code shown in above image*' />
                             <p className='table2P3'>You can pay via Cash /Card or UPI enabled app at the time of delivery.
                              Ask your delivery executive for these options. </p>
-                            <button className='paymentBtn'>PLACE ORDER</button>
+                            <Link to="/thankyou"><button className='paymentBtn'>PLACE ORDER</button></Link>
                         </div>
                     </div>
                     <div className='giftDiv'> 

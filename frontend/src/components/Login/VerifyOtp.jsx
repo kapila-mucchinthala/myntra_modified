@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Styles from "./login.module.css";
 
 export const VerifyOtp = () => {
@@ -55,6 +56,11 @@ export const VerifyOtp = () => {
 
             <div className={Styles.Gethelp}>
               <span>RESEND OTP</span>
+            </div>
+            <div className={Styles.CotinueBtnDiv}>
+            <div className={Styles.CotinueBtnDiv}>
+              <Link to="/address"><button>continue</button></Link>
+            </div>
             </div>
             <div className={Styles.Gethelp}>
               Log in using<span> Password</span>
