@@ -3,6 +3,7 @@ import { Login } from "./components/Login/login";
 import { VerifyOtp } from "./components/Login/VerifyOtp";
 import { Route, Switch } from 'react-router-dom';
 import { Productscreen } from "./components/ProductScreen/Productscreen";
+import { Address } from "./components/Address/Address";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       {/* <LandingPage /> */}
       {/* <Login/> */}
       {/* <VerifyOtp/> */}
+     
 
       <Switch>
         <Route path='/' exact>
@@ -23,6 +25,9 @@ function App() {
         </Route>
         <Route path='/sweatshirt'>
           <Productscreen />
+        </Route>
+        <Route path='/address'>
+           <Address/> 
         </Route>
       </Switch>
     </>
