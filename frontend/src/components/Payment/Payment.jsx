@@ -104,7 +104,7 @@ export const Payment = () => {
                         <div className='detailsFlex'>
                             <div className='totalPrice'>
                                 <div>Total MRP</div>
-                                <div id='discountMRP'>Rs. 780</div>
+                                <div id='discountMRP'>Rs. 759</div>
                             </div>
                             <div className='totalPrice'>
                                 <div>Discount on MRP</div>
@@ -117,7 +117,7 @@ export const Payment = () => {
                             <hr className='hr2'></hr>
                             <div className='totalPrice'>
                                 <div id='totalPricecolor'>Total Amount</div>
-                                <div id='totalPricecolor'>Rs. 780</div>
+                                <div id='totalPricecolor'>Rs. 759</div>
                             </div>
                         </div>
                     </div>

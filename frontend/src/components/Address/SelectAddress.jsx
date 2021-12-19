@@ -39,11 +39,11 @@ export const Selectaddress = () => {
                                 {/* <img src='https://www.linkpicture.com/q/1_280.png' alt='' /> */}
                                 <input type="radio" />
                             </div>
-                            <div>Rahul Raj</div>
+                            <div>Ranu Ranjan</div>
                             </div>
-                            <div className='bankOffersP'>C-48, Noida Sector 91</div>
-                            <div className='bankOffersP'>Noida, Uttar Pradesh</div>
-                            <p className='bankOffersP'>Mobile: 8799094251</p>
+                            <div className='bankOffersP'>Partap Nagar</div>
+                            <div className='bankOffersP'>Sitamarhi, Bihar</div>
+                            <p className='bankOffersP'>Mobile: 8770719228</p>
                             <ul className='bankOffersUl'><li>Pay on Delivery available</li></ul>
                             <div className='deliveryBtns'>
                                 <button className='delivBtn'>REMOVE</button>
@@ -70,7 +70,7 @@ export const Selectaddress = () => {
                         <div className='detailsFlex'>
                             <div className='totalPrice'>
                                 <div>Total MRP</div>
-                                <div id='discountMRP'>Rs. 780</div>
+                                <div id='discountMRP'>Rs. 759</div>
                             </div>
                             <div className='totalPrice'>
                                 <div>Discount on MRP</div>
@@ -83,9 +83,9 @@ export const Selectaddress = () => {
                             <hr className='hr2'></hr>
                             <div className='totalPrice'>
                                 <div id='totalPricecolor'>Total Amount</div>
-                                <div id='totalPricecolor'>Rs. 780</div>
+                                <div id='totalPricecolor'>Rs. 759</div>
                             </div>
-                            <Link to="/payment"><button className='continueBtn'>CONTINUE</button></Link>
+                            <Link to="/payment"><button style={{padding:"10px 115px",textTransform:"uppercase",backgroundColor:" #FF3F6C ",color:"#ffff",fontFamily:"'Segoe UI', sans-serif",fontWeight:"500",border:"none"}} className='continueBtn'>CONTINUE</button></Link>
                         </div>
                     </div>
                 </div>

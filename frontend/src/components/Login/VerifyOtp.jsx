@@ -59,7 +59,7 @@ export const VerifyOtp = () => {
             </div>
             <div className={Styles.CotinueBtnDiv}>
             <div className={Styles.CotinueBtnDiv}>
-              <Link to="/address"><button>continue</button></Link>
+              <Link to="/address"><button style={{padding:"10px 115px",textTransform:"uppercase",backgroundColor:" #FF3F6C ",color:"#ffff",fontFamily:"'Segoe UI', sans-serif",fontWeight:"500",border:"none"}}>continue</button></Link>
             </div>
             </div>
             <div className={Styles.Gethelp}>

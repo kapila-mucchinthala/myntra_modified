@@ -50,7 +50,7 @@ export const Login = () => {
               <a href="#">Privacy Policy</a>
             </div>
             <div className={Styles.CotinueBtnDiv}>
-              <Link to="/otp"><button>continue</button></Link>
+              <Link to="/otp"><button style={{padding:"10px 115px",textTransform:"uppercase",backgroundColor:" #FF3F6C ",color:"#ffff",fontFamily:"'Segoe UI', sans-serif",fontWeight:"500",border:"none"}}>continue</button></Link>
             </div>
             <div className={Styles.Gethelp}>
               Have trouble logging in ?<span> Get help</span>
