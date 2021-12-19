@@ -9,6 +9,7 @@ import { Selectaddress } from "./components/Address/SelectAddress";
 import { Payment } from "./components/Payment/Payment";
 import { ThankYou } from "./components/Thankyou";
 import { Cart } from "./components/Cart/Cart";
+import { Congrats } from "./components/congrats";
 
 function App() {
   return (
@@ -43,6 +44,9 @@ function App() {
         </Route>
         <Route path="/thankyou">
           <ThankYou/>
+        </Route>
+        <Route path="/congrats">
+          <Congrats/>
         </Route>
       </Switch>
     </>
